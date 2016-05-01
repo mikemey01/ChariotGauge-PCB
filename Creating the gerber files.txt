@@ -1,0 +1,4 @@
+Click on the CAM button (looks like two movie reels).
+- Hit File -> new Job.
+- Select SFE Special
+- Click process job.
