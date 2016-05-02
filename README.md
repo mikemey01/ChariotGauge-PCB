@@ -12,6 +12,12 @@ I use and recommend Advanced Circuits.
 # Modify
 If you want to modify the PCB I've included the board and schematic files from Eagle CAD. You'll need to install Eagle CAD to view/edit the schematics.
 
+# Chariot Gauge DIY
+There are three parts to the Chariot Gauge project, this is the PCB repo:
+* [Chariot Gauge Controller Firmware](https://github.com/mikemey01/ChariotGauge-Firmware)
+* [Chariot Gauge Controller](https://github.com/mikemey01/ChariotGauge-PCB)
+* [Chariot Gauge Android App](https://github.com/mikemey01/ChariotGaugeAndroid), or [Chariot Gauge iOS App](https://github.com/mikemey01/ChariotGaugeiOS)
+
 # License
 
 MIT License
