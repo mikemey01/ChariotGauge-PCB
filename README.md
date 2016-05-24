@@ -9,6 +9,8 @@ The latest iteration of the controller is in the Version 2 folder. These are all
 
 I use and recommend Advanced Circuits.
 
+Steps for assembling the controller can be found here: https://www.chariotgauge.com/install-guide-diy/
+
 # Modify
 If you want to modify the PCB I've included the board and schematic files from Eagle CAD. You'll need to install Eagle CAD to view/edit the schematics.
 
